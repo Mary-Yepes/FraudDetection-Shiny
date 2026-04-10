@@ -45,12 +45,13 @@ El dashboard está organizado en las siguientes secciones:
 Opción A — clonar con git:
 ```bash
 git clone https://github.com/Mary-Yepes/FraudDetection-Shiny.git
-cd fraud-eda-shiny
 ```
 
 Opción B — descargar el ZIP directamente desde GitHub (botón verde "Code" → "Download ZIP") y descomprimir.
 
 **2. Instalar los paquetes necesarios:**
+
+Abre RStudio y en la **consola de R** ejecuta:
 
 ```r
 install.packages(c(
