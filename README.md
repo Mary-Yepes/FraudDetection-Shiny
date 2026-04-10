@@ -67,11 +67,7 @@ Descarga `creditcard.csv` desde [Kaggle](https://www.kaggle.com/datasets/mlg-ulb
 
 **4. Ejecutar:**
 
-Abre `app.R` en RStudio y ejecuta:
-
-```r
-shiny::runApp()
-```
+Abre el archivo `app.R` en RStudio (**File → Open File → app.R**) y presiona el botón **"Run App"** que aparece en la esquina superior derecha del editor.
 
 ------------------------------------------------------------------------
 
