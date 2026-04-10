@@ -104,7 +104,7 @@ proyecto/
 
 Este proyecto fue desarrollado por:
 
--   **Alejandra Meneses Gómez** — [GitHub](https://github.com/alemengo76)[Linkedln](https://www.linkedin.com/in/alejandra-meneses-g%C3%B3mez-aaa97b3b7/)
+-   **Alejandra Meneses Gómez** — [GitHub](https://github.com/alemengo76) - [Linkedln](https://www.linkedin.com/in/alejandra-meneses-g%C3%B3mez-aaa97b3b7/)
 -   **Mariangel Yepes Negrete** — [GitHub](https://github.com/mary-yepes)
 
 ------------------------------------------------------------------------
