@@ -36,6 +36,12 @@ El dashboard está organizado en las siguientes secciones:
 
 ------------------------------------------------------------------------
 
+## Link
+
+Enlace: https://8ruecs-mariangel-yepes0negrete.shinyapps.io/Shiny_Dataviz2/
+
+------------------------------------------------------------------------
+
 ## Ejecutar la aplicación
 
 **Requisitos previos:** tener instalado R (versión 4.1 o superior) y RStudio.
