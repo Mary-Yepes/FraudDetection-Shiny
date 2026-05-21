@@ -40,6 +40,7 @@ El dashboard está organizado en las siguientes secciones:
 
 Enlace: https://8ruecs-mariangel-yepes0negrete.shinyapps.io/Shiny_Dataviz2/
 
+
 ------------------------------------------------------------------------
 
 ## Ejecutar la aplicación
